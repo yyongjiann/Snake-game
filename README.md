@@ -15,7 +15,3 @@ The following search strategies are implemented.
 ## Informed Search
 1. Greedy Search
 2. A* Search
-
-## Acknowledgements
-
- NTU SC1015 
